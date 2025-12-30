@@ -124,3 +124,10 @@ This pipeline is intended for research use cases such as:
 ## 📝 License
 
 This code is intended for research purposes. Please ensure compliance with Reddit’s data usage policies when using the datasets.
+
+## 🙏 Acknowledgments
+
+This work is supported by **TWON** (project number **101095095**), a research project funded by the European Union under the **Horizon Europe** framework (HORIZON-CL2-2022-DEMOCRACY-01, Topic 07).
+
+More information about the project is available on the official website:
+👉 https://www.twon-project.eu/
