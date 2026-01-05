@@ -4,7 +4,7 @@ A Python-based pipeline for collecting, cleaning, and semantically organizing la
 
 ## 🌟 Overview
 
-![Methodological pipeline overview](figures\SyntheticData_Methodology.pdf)
+![Methodological pipeline overview](figures/SyntheticData_Methodology.pdf)
 
 **Figure 1:** Methodological pipeline for constructing an empirically grounded agent-based simulation dataset from Reddit interactions.
 
@@ -119,7 +119,7 @@ This enables reproducible experiments across different domains and time periods.
 
 ## 🎯 Intended Use
 
-![Agent-based domain visualization](figures\AllAgents.png)
+![Agent-based domain visualization](figures/AllAgents.png)
 
 **Figure 2:** Visualization of all agents: 33 technology-focused, 14 climate-focused, and 7 COVID-related agents.
 
