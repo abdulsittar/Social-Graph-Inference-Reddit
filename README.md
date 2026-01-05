@@ -4,6 +4,10 @@ A Python-based pipeline for collecting, cleaning, and semantically organizing la
 
 ## 🌟 Overview
 
+![Methodological pipeline overview](figures/SyntheticData_Methodology.pdf)
+
+**Figure 1:** Methodological pipeline for constructing an empirically grounded agent-based simulation dataset from Reddit interactions.
+
 This repository contains a sequential data processing pipeline that transforms raw Reddit data into a high-quality, topic-annotated dataset. The pipeline is fully configurable via a central `config.json` file and supports multiple domains such as **COVID-19**, **Climate Change**, or custom subreddit collections.
 
 The final dataset consists of cleaned Reddit posts and comments that are:
@@ -114,6 +118,10 @@ This enables reproducible experiments across different domains and time periods.
 - tqdm
 
 ## 🎯 Intended Use
+
+![Agent-based domain visualization](figures/AllAgents.png)
+
+**Figure 2:** Visualization of all agents: 33 technology-focused, 14 climate-focused, and 7 COVID-related agents.
 
 This pipeline is intended for research use cases such as:
 - Social media discourse analysis
