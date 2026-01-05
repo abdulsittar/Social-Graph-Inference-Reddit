@@ -4,7 +4,7 @@ A Python-based pipeline for collecting, cleaning, and semantically organizing la
 
 ## 🌟 Overview
 
-![Methodological pipeline overview](figures/SyntheticData_Methodology.pdf)
+![Methodological pipeline overview](figures/SyntheticData_Methodology.png)
 
 **Figure 1:** Methodological pipeline for constructing an empirically grounded agent-based simulation dataset from Reddit interactions.
 
